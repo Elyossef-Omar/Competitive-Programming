@@ -10,3 +10,5 @@ for i in range(n):
             sum -= 1
             break
 print(sum)
+
+#Yeah but does it automate the Solar System? Exactly.
